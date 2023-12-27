@@ -1,5 +1,5 @@
 
-Update the following variabels on  mortgage.py L31 -> 34:
+Update the following variabels on  mortgage.py L15 -> 26:
 
 ```
 # How much money is left on your mortgage? 
