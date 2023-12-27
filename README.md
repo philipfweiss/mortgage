@@ -27,6 +27,7 @@ EXTRA_PAYDOWN = 0
 
 ### Example Output
 
+```
 ****
 Outstanding Loan Amount: 605229
 Years on loan: 30
@@ -38,3 +39,4 @@ Extra Paydown: $0
 Monthly payment is $3789.71
 With $0 paydown, you would pay $759043.09 interest over 30.0 years.
 ====
+```
