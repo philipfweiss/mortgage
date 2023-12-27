@@ -23,7 +23,7 @@ INTEREST_RATE = 0.0641
 
 # Once your terms are set, you can pay extra money up front.
 # What difference does that make for you? 
-EXTRA_PAYDOWN = 0
+EXTRA_PAYDOWN = 50000
 
 ##########################################################################################
 ##########################################################################################
@@ -61,12 +61,12 @@ print("====")
 print(f"Monthly payment is ${monthly}")
 
 print(f"With $0 paydown, you would pay ${round(interest_0, 2)} "
-    f"interest over {t_0} years."
+    f"interest over {round(t_0, 2)} years."
 )
 
 if EXTRA_PAYDOWN > 0:
     print(f"With ${EXTRA_PAYDOWN} paydown, you would pay ${round(interest_1, 2)} "
-        f"interest over {t_1} years."
+        f"interest over {round(t_1, 2)} years."
     )
 
     # print(

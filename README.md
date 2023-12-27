@@ -40,3 +40,20 @@ Monthly payment is $3789.71
 With $0 paydown, you would pay $759043.09 interest over 30.0 years.
 ====
 ```
+
+With a $50k extra paydown, you get:
+
+```
+****
+Outstanding Loan Amount: 605229
+Years on loan: 30
+Interest Rate: 6.41%
+Extra Paydown: $50000
+****
+
+====
+Monthly payment is $3789.71
+With $0 paydown, you would pay $759043.09 interest over 30.0 years.
+With $50000 paydown, you would pay $530322.48 interest over 23.92 years.
+====
+```
